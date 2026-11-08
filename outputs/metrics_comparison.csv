@@ -1,0 +1,4 @@
+method,total_vehicles,served,unserved,pct_high_critical_served,unsafe_allocations,avg_soh_allocated,avg_suitability_score_allocated
+Baseline (Highest-SoC-First),50,50,0,100.0,0,80.3,63.6
+Our Method (Optimization),50,50,0,100.0,0,91.3,77.0
+Greedy (internal check only),50,50,0,100.0,0,91.3,77.0
